@@ -1,0 +1,16 @@
+C:\Users\julia\source\repos\POO-1\POO-1\bin\Debug\net5.0\POO-1.exe
+C:\Users\julia\source\repos\POO-1\POO-1\bin\Debug\net5.0\POO-1.deps.json
+C:\Users\julia\source\repos\POO-1\POO-1\bin\Debug\net5.0\POO-1.runtimeconfig.json
+C:\Users\julia\source\repos\POO-1\POO-1\bin\Debug\net5.0\POO-1.runtimeconfig.dev.json
+C:\Users\julia\source\repos\POO-1\POO-1\bin\Debug\net5.0\POO-1.dll
+C:\Users\julia\source\repos\POO-1\POO-1\bin\Debug\net5.0\ref\POO-1.dll
+C:\Users\julia\source\repos\POO-1\POO-1\bin\Debug\net5.0\POO-1.pdb
+C:\Users\julia\source\repos\POO-1\POO-1\obj\Debug\net5.0\POO-1.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\POO-1\POO-1\obj\Debug\net5.0\POO-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\POO-1\POO-1\obj\Debug\net5.0\POO-1.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\POO-1\POO-1\obj\Debug\net5.0\POO-1.AssemblyInfo.cs
+C:\Users\julia\source\repos\POO-1\POO-1\obj\Debug\net5.0\POO-1.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\POO-1\POO-1\obj\Debug\net5.0\POO-1.dll
+C:\Users\julia\source\repos\POO-1\POO-1\obj\Debug\net5.0\ref\POO-1.dll
+C:\Users\julia\source\repos\POO-1\POO-1\obj\Debug\net5.0\POO-1.pdb
+C:\Users\julia\source\repos\POO-1\POO-1\obj\Debug\net5.0\POO-1.genruntimeconfig.cache
